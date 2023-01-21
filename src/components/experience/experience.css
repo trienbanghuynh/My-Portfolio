@@ -1,0 +1,87 @@
+.experience_container {
+    display: grid;
+    grid-template-columns: 54% 50%;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.experience_container>div {
+    background: var(--color-bg-variant);
+    padding: 2.2rem 3rem;
+    border-radius: 2rem;
+    border-radius: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.experience_container>div:hover {
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+}
+
+.experience_container>div h3 {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: rgba(247, 26, 26, 0.991);
+}
+
+.experience_content {
+    margin: 1rem 0 2.6rem;
+    font-size: 0.9rem;
+}
+
+.experience_content:last-child{
+    margin-bottom: 0;
+}
+
+p {
+    text-indent: 20px;
+    margin-bottom: 0.7rem;
+}
+
+
+.company_date {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    font-size: 0.90rem;
+    color: rgb(0, 255, 234);
+    margin-bottom: 1.5rem;
+}
+
+
+
+.experience_details-icon {
+    margin-top: 6px;
+    color: var(--color-primary)
+}
+
+/* medium devices */
+@media screen and (max-width: 1024px) {
+    .experience_container {
+        grid-template-columns: 1fr;
+
+    }
+
+    .experience_container>div {
+        width: 80%;
+        padding: 2rem;
+        margin: 0 auto;
+    }
+
+    .experience_content {
+        padding: 1rem;
+    }
+}
+
+/* small devices */
+@media screen and (max-width: 600px) {
+    .experience_container {
+        gap: 1rem;
+    }
+
+    .experience_container>div {
+        width: 100%;
+        padding: 2rem 1rem;
+    }
+}
