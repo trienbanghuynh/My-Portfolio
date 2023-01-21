@@ -1,6 +1,6 @@
 .experience_container {
     display: grid;
-    grid-template-columns: 54% 50%;
+    grid-template-columns: 50% 50%;
     gap: 2rem;
     margin-bottom: 1.5rem;
 }
@@ -30,7 +30,7 @@
     font-size: 0.9rem;
 }
 
-.experience_content:last-child{
+.experience_content:last-child {
     margin-bottom: 0;
 }
 
