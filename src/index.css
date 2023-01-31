@@ -74,8 +74,9 @@ html{
  }
 
  a{ 
-    color: var(--color-primary);
-    transition: var(--transition)
+    color: rgb(0, 255, 166);
+    transition: var(--transition);
+    
  }
 
  a:hover{
