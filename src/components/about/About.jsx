@@ -49,7 +49,7 @@ const About = () => {
               <article className="about_card">
                 <small>
                   My name is Trien Bang or just call me Ben. I am currently a
-                  student @ De Anza College majoring in Computer Science. I'm
+                  student @ De Anza College majoring in Computer Science for Transfer. I'm
                   really interested in web developement and problem solving. I have strong knowledge of data structure and algorithm. I am
                   always willing to learn and embrace new challenges, especially
                   in programming and technology. Right now, I am looking for

@@ -1,6 +1,6 @@
 import React from "react";
 import "./experience.css";
-import {TfiNewWindow} from 'react-icons/tfi'
+import { TfiNewWindow } from "react-icons/tfi";
 
 const Experience = () => {
   return (
@@ -11,14 +11,13 @@ const Experience = () => {
           <h3>Software Engineer Intern </h3>
           <article className="experience_card">
             <div className="company_date">
-              <div >
-                <a 
-                  href="https://www.linkedin.com/company/escaype/"
+              <div>
+                <a
+                  href="https://www.escaype.com/"
                   target="_blank"
                   rel="noreferrer"
-                 
                 >
-                  @Escaype LLC <TfiNewWindow/>
+                  @Escaype LLC <TfiNewWindow />
                 </a>
               </div>
               <div>Dec. 2022 – Present</div>
@@ -26,8 +25,10 @@ const Experience = () => {
             <div className="experience_content">
               <p>
                 {" "}
-                Developed a static webpage to decrease searching and navigating
-                time for the company images.
+                Collaborated with co-founder of the company to develop a Cloud
+                Viewer Images static webpage that decreased searching and
+                navigating time for the company images using HTML, CSS,
+                Javascript.
               </p>
             </div>
           </article>
@@ -37,13 +38,13 @@ const Experience = () => {
           <h3>Math-Science Tutor </h3>
           <article className="experience_card">
             <div className="company_date">
-            <div >
-                <a 
+              <div>
+                <a
                   href="https://www.deanza.edu/studentsuccess/"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  @De Anza College <TfiNewWindow/>
+                  @De Anza College <TfiNewWindow />
                 </a>
               </div>
               <div>Apr. 2022 – Present</div>
@@ -51,7 +52,7 @@ const Experience = () => {
             <div className="experience_content">
               <p>
                 {" "}
-                Provide academic support and studying advice to students in
+                Provide academic support and studying advice to 20+ students in
                 lower-division math, physics and chemistry courses through
                 one-on-one in-person, online and individual tutoring sessions.{" "}
               </p>
@@ -70,13 +71,13 @@ const Experience = () => {
           <h3>Computer Lab Technician Intern </h3>
           <article className="experience_card">
             <div className="company_date">
-            <div >
-                <a 
+              <div>
+                <a
                   href="https://www.deanza.edu/oti/comptechs.html"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  @De Anza College <TfiNewWindow/>
+                  @De Anza College <TfiNewWindow />
                 </a>
               </div>
               <div>June 2022 – Aug. 2022</div>
@@ -84,9 +85,14 @@ const Experience = () => {
             <div className="experience_content">
               <p>
                 {" "}
-                Installed and tested Windows 10 and various application software.
+                Installed and tested Windows 10 and various application
+                software.
               </p>
-              <p> Diagnosed and troubleshot software and hardware issues.</p>
+              <p>
+                {" "}
+                Diagnosed and troubleshot software and hardware issues for 10+
+                computers.
+              </p>
             </div>
           </article>
         </div>
@@ -96,13 +102,13 @@ const Experience = () => {
           <h3>Computer Lab Teaching Assistant </h3>
           <article className="experience_card">
             <div className="company_date">
-            <div >
-                <a 
+              <div>
+                <a
                   href="https://www.deanza.edu/cis/tutoringOnline.html"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  @De Anza College <TfiNewWindow/>
+                  @De Anza College <TfiNewWindow />
                 </a>
               </div>
               <div>Sep. 2021 – Dec. 2022</div>
@@ -110,8 +116,8 @@ const Experience = () => {
             <div className="experience_content">
               <p>
                 {" "}
-                Assisted students in fixing logic errors and syntax errors in
-                programming assignments.
+                Assisted 10+ students in fixing logic errors and syntax errors
+                in programming assignments.
               </p>
               <p>
                 Provided suggestions on optimizing coding solutions and

@@ -11,44 +11,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Cuisine Restaurant",
-    github: "https://github.com/trienbanghuynh/Cuisine-Restaurant",
-    demo: "https://shaifsrestaurant.netlify.app",
-  },
-  {
-    id: 2,
-    image: IMG2,
-    title: "React Feedback App",
-    github: "https://github.com/trienbanghuynh/Feedback-App",
-    demo: false,
-  },
-  {
-    id: 3,
-    image: IMG3,
-    title: "React Github Finder App",
-    github: "https://github.com/trienbanghuynh/Github-Finder",
-    demo: "https://github-finder-sigma.vercel.app/",
-  },
-  {
-    id: 4,
-    image: IMG4,
     title: "YelpCamp Website",
     github: "https://github.com/trienbanghuynh/YelpCamp",
     demo: false,
   },
   {
+    id: 2,
+    image: IMG2,
+    title: "House Marketplace",
+    github: "https://github.com/trienbanghuynh/House-Marketplace",
+    demo: "https://house-marketplace-htb.vercel.app/",
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: "Support Desk App",
+    github: "https://github.com/trienbanghuynh/Support-Desk-App",
+    demo: false,
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: "Github Finder",
+    github: "https://github.com/trienbanghuynh/Github-Finder",
+    demo: "https://github-finder-sigma.vercel.app/",
+  },
+  {
     id: 5,
     image: IMG5,
-    title: "Mastermind Game",
-    github: "https://github.com/trienbanghuynh/Mastermind-Game",
-    demo: "https://incredible-queijadas-3b7543.netlify.app",
+    title: "Sudoku Solver",
+    github: "https://github.com/trienbanghuynh/Sudoku-Solver",
+    demo: false,
   },
   {
     id: 6,
     image: IMG6,
-    title: "Sudoku Solver",
-    github: "https://github.com/trienbanghuynh/Sudoku-Solver",
-    demo: false,
+    title: "Cuisine Restaurant ",
+    github: "https://github.com/trienbanghuynh/Cuisine-Restaurant",
+    demo: "https://shaifsrestaurant.netlify.app",
   },
 ];
 
@@ -69,12 +69,12 @@ const Portfolio = () => {
 
               <div className="portfolio_item-cta">
                 <a href={github} className="btn btn-primary" target="_blank" rel="noreferrer">
-                  Github
+                  Github Info
                 </a>
 
                 {demo && (
                   <a href={demo} className="btn btn-primary" target="_blank" rel="noreferrer">
-                    View Demo
+                    Demo
                   </a>
                 )}
               </div>
