@@ -3,6 +3,7 @@ import "./about.css";
 import ME from "../../assets/myavata.jpeg";
 import { BsLinkedin } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";
 import { useEffect, useRef } from "react";
 import { animated, useSpring } from "react-spring";
 import { useState } from "react";
@@ -61,7 +62,7 @@ const About = () => {
             </div>
             <div className="about_socials">
               <a
-                href="https://www.linkedin.com/in/trien-bang-huynh-09771321b/"
+                href="https://www.linkedin.com/in/trien-bang-huynh-09771321b"
                 target="_blank"
                 className="about_icon"
                 rel="noreferrer"
@@ -76,6 +77,15 @@ const About = () => {
                 rel="noreferrer"
               >
                 <FaGithub />
+              </a>
+
+              <a
+                href="https://leetcode.com/trienbanghuynh"
+                target="_blank"
+                className="about_icon"
+                rel="noreferrer"
+              >
+                <SiLeetcode />
               </a>
             </div>
           </div>
