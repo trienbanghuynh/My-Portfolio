@@ -25,10 +25,11 @@ const Experience = () => {
             <div className="experience_content">
               <p>
                 {" "}
-                Collaborated with co-founder of the company to develop a Cloud
-                Viewer Images static webpage that decreased searching and
-                navigating time for the company images using HTML, CSS,
-                Javascript.
+                Collaborate with co-founder of the company to develop a Cloud Viewer Images static webpage that helped to search and navigate for the company images using HTML, CSS, Javascript.
+              </p>
+              <p>
+                {" "}
+                Generate a plot that visualizes the forecasted relative humidity at the San Francisco International Airport (KSFO) from the NAM model using matplotlib.
               </p>
             </div>
           </article>
@@ -47,18 +48,18 @@ const Experience = () => {
                   @De Anza College <TfiNewWindow />
                 </a>
               </div>
-              <div>Apr. 2022 – Present</div>
+              <div>Apr. 2022 – June. 2023</div>
             </div>
             <div className="experience_content">
               <p>
                 {" "}
-                Provide academic support and studying advice to 20+ students in
+                Provided academic support and studying advice to 20+ students in
                 lower-division math, physics and chemistry courses through
                 one-on-one in-person, online and individual tutoring sessions.{" "}
               </p>
               <p>
                 {" "}
-                Guide students through complex concepts using drawings, creative
+                Guided students through complex concepts using drawings, creative
                 analogies, and simplified terminology.
               </p>
             </div>
