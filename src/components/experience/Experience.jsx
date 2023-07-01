@@ -25,7 +25,7 @@ const Experience = () => {
             <div className="experience_content">
               <p>
                 {" "}
-                Collaborate with co-founder of the company to develop a Cloud Viewer Images static webpage that helped to search and navigate for the company images using HTML, CSS, Javascript.
+                Collaborate with co-founder of the company to develop a Cloud Viewer Images static webpage that helps to search and navigate for the company images using HTML, CSS, Javascript.
               </p>
               <p>
                 {" "}
@@ -48,7 +48,7 @@ const Experience = () => {
                   @De Anza College <TfiNewWindow />
                 </a>
               </div>
-              <div>Apr. 2022 – June. 2023</div>
+              <div>Apr. 2022 – June 2023</div>
             </div>
             <div className="experience_content">
               <p>

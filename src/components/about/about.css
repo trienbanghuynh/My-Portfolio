@@ -34,6 +34,9 @@
     justify-content: center;
 }
 
+.about_socials small{
+    font-size: 1.2rem;
+}
 .about_card {
     background: var(--color-bg-variant);
     border: 1px solid transparent;

@@ -67,7 +67,7 @@ const About = () => {
                 className="about_icon"
                 rel="noreferrer"
               >
-                <BsLinkedin />
+                <small>LinkedIn </small><BsLinkedin />
               </a>
 
               <a
@@ -76,7 +76,7 @@ const About = () => {
                 className="about_icon"
                 rel="noreferrer"
               >
-                <FaGithub />
+                <small>Github</small><FaGithub />
               </a>
 
               <a
@@ -85,7 +85,7 @@ const About = () => {
                 className="about_icon"
                 rel="noreferrer"
               >
-                <SiLeetcode />
+                <small>LeetCode</small><SiLeetcode />
               </a>
             </div>
           </div>
