@@ -29,7 +29,7 @@ const Experience = () => {
               </p>
               <p>
                 {" "}
-                Generate a plot that visualizes the forecasted relative humidity at the San Francisco International Airport (KSFO) from the NAM model using matplotlib.
+                Generate a plot that visualizes the forecasted relative humidity at the San Francisco International Airport (KSFO) from the NAM model using matplotlib, interpolation of a 2D dataset with RegularGridInterpolator, and visualization of the interpolated data with pcolormesh and color bar.
               </p>
             </div>
           </article>
