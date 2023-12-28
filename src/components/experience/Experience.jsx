@@ -25,11 +25,15 @@ const Experience = () => {
             <div className="experience_content">
               <p>
                 {" "}
-                Collaborate with co-founder of the company to develop a Cloud Viewer Images static webpage that helps to search and navigate for the company images using HTML, CSS, Javascript.
+                Collaborated with co-founder of the company to develop a webpage that helps to search and navigate for the
+company images using HTML, CSS, Javascript.
+
               </p>
               <p>
                 {" "}
-                Generate a plot that visualizes the forecasted relative humidity at the San Francisco International Airport (KSFO) from the NAM model using matplotlib, interpolation of a 2D dataset with RegularGridInterpolator, and visualization of the interpolated data with pcolormesh and color bar.
+                Produced graph visualizations illustrating forecasted global city relative humidity using the NAM weather model,
+applied 2D dataset interpolation with RegularGridInterpolator, and visualized the results with Pcolormesh,
+utilizing Python’s Numpy, Matplotlib, and SciPy libraries.
               </p>
             </div>
           </article>
@@ -53,9 +57,8 @@ const Experience = () => {
             <div className="experience_content">
               <p>
                 {" "}
-                Provided academic support and studying advice to 20+ students in
-                lower-division math, physics and chemistry courses through
-                one-on-one in-person, online and individual tutoring sessions.{" "}
+                Provided academic support and studying advice to 30+ students in lower-division math, physics and chemistry
+courses through one-on-one in-person, online and individual tutoring sessions.{" "}
               </p>
               <p>
                 {" "}
@@ -117,16 +120,13 @@ const Experience = () => {
             <div className="experience_content">
               <p>
                 {" "}
-                Assisted 10+ students in fixing logic errors and syntax errors
-                in programming assignments.
+                Instructed basic programming concepts such as Object Oriented Programming and Data Structures,
+                problem-solving skills and assisted many students in fixing logic errors and syntax errors of assignments in C++,
+                Java, Python programming languages.
               </p>
               <p>
                 Provided suggestions on optimizing coding solutions and
                 programming techniques.
-              </p>
-              <p>
-                Instructed basic programming concepts in C++, Java, Python and
-                problem-solving skills.
               </p>
             </div>
           </article>

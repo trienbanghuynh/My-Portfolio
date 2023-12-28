@@ -49,9 +49,8 @@ const About = () => {
             <div className="about_cards">
               <article className="about_card">
                 <small>
-                  My name is Trien Bang or just call me Ben. I am a former
-                  student @ De Anza College and going to transfer to UC Berkeley in Fall 2023 majoring Electrical Engineering and Computer Science. I'm
-                  really interested in web developement and problem solving. I have strong knowledge of data structure and algorithm. I am
+                  My name is Trien Bang or just call me Ben. I did my first 2 years @ De Anza College and transfered to UC Berkeley in Fall 2023 with expected graduation in 2025 majoring Electrical Engineering and Computer Science. I'm
+                  interested in full-stack web developement, AI, cloud computing and problem solving. I have strong knowledge of data structure and algorithm. I am
                   always willing to learn and embrace new challenges, especially
                   in programming and technology. Right now, I am looking for
                   SWE/SDE internship or STEM reseach in the next summer.

@@ -64,7 +64,7 @@ const Skills = () => {
               </article>
             </div>
           </div>
-          {/* end of frontend */}
+
           <div className="skill_backend">
             <h3>Backend Development</h3>
             <div className="skill_content">
@@ -75,6 +75,14 @@ const Skills = () => {
               <article className="skill_details">
                 <BsPatchCheckFill className="skill_details-icon" />
                 <h4>Node.js</h4>
+              </article>
+              <article className="skill_details">
+                <BsPatchCheckFill className="skill_details-icon" />
+                <h4>Express.js</h4>
+              </article>
+              <article className="skill_details">
+                <BsPatchCheckFill className="skill_details-icon" />
+                <h4>Flask</h4>
               </article>
               <article className="skill_details">
                 <BsPatchCheckFill className="skill_details-icon" />

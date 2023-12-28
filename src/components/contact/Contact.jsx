@@ -3,7 +3,6 @@ import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
 import { BsWhatsapp } from "react-icons/bs";
 import { RxDiscordLogo } from "react-icons/rx";
-// import { useRef } from 'react';
 import emailjs from "emailjs-com";
 import { useEffect, useRef } from "react";
 import { animated, useSpring } from "react-spring";
